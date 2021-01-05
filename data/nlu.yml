@@ -84,6 +84,11 @@ nlu:
     - so saad
     - so sad
 
+- intent: online_courses
+  examples: |
+    - What are the online platforms for course?
+    - What are the online course options?
+
 - intent: bot_challenge
   examples: |
     - are you a bot?
