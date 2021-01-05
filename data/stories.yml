@@ -61,6 +61,12 @@ stories:
   - action: utter_greet
   - intent: language
   - action: utter_langauge
+- story: accessbility path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: accessbility
+  - action: utter_accessbility
 
 - story: contact path
   steps:
