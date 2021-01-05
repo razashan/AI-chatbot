@@ -166,7 +166,11 @@ nlu:
     - will these courses help me to enhance my current knowledge and skills?
 <<<<<<< HEAD
 =======
-
+- intent: language
+  examples: |
+    - What is the language of those courses?
+    - In which language you offer courses?
+ 
 >>>>>>> 5cd25f57c5faa34c9f6625c60d8599537b790810
 - intent: contact_info
   examples: |
