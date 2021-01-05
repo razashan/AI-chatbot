@@ -88,6 +88,11 @@ stories:
   - action: utter_qualification
   - intent: course_updates
   - action: utter_updates
+
+- story: online courses path
+  steps:
+  - intent: online_courses
+  - action: utter_online_courses
   
 <<<<<<< HEAD
 - story: course and contribution info 
