@@ -55,7 +55,13 @@ stories:
   - intent: interest
   - action: utter_interest_info
   
-  
+- story: language path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: language
+  - action: utter_langauge
+
 - story: contact path
   steps:
   - intent: greet
