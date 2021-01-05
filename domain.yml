@@ -19,6 +19,7 @@ intents:
   - course_info 
   - contribution 
   - language
+  - accessbility
 
 responses:
   utter_greet:
@@ -106,7 +107,10 @@ actions:
   
   utter_qualification:
   - text: "This website will provide you best courses to enhance your knowledge, as we aim to provide learning to people of every academic stage. Simply register to our site and get enroll to any course of your interest. You will have an opportunity to go through the course outline before enrolling into it."
-
+  
+  utter_accessbility:
+  - text: "Yes we will provide you all the course material and we will also upload our course material online"
+  
   utter_course_info: 
   - text: "We have experienced teachers however, the courses are charged with no financial aid.The certificate will be emailed to you once you complete the course" 
   utter_contribution: 
