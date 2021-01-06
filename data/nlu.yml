@@ -115,6 +115,8 @@ nlu:
     - i have to go.
     - good question
     - that's unexpected
+    - none of your question
+    - unnecessary question
     - don't ask this
     - i don't want to answer this
     - skip it.
