@@ -22,7 +22,7 @@ intents:
   - accessbility
   - online_courses
   - goodbye
-  - bot-challenge
+  - bot_challenge
 
 responses:
   utter_greet:
