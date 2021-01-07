@@ -21,6 +21,8 @@ intents:
   - language
   - accessbility
   - online_courses
+  - goodbye
+  - bot-challenge
 
 responses:
   utter_greet:
